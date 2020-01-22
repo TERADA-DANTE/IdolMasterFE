@@ -1,0 +1,10 @@
+.wrapper-head{
+    display: grid;
+    grid-template-columns: 60% 20% 20%;
+    margin-top: 20px;
+    margin-bottom: -12px;
+}
+.head{
+    margin-bottom: 20px;
+    margin-top:20px;
+}

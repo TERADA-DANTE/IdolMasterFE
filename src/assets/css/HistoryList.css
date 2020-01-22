@@ -1,0 +1,11 @@
+.historyItem{
+    color:dodgerblue;
+    font-style: normal;
+    cursor: pointer;
+}
+
+.history{
+    list-style-type: none;
+    display: block;
+   }
+   

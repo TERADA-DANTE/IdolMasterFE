@@ -1,0 +1,25 @@
+@media all and (max-width:1030px){
+  .wrapper-main{
+    grid-template-columns: 100% 0% !important;
+  }
+}
+
+.border-top, .border-bottom{
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.wrapper-main{
+  display: grid;
+  grid-template-columns: 80% 20%;
+
+}
+
+/* Icon */
+.fa-play-circle{
+  color:white;
+  opacity:70%;
+  position:absolute;
+  font-size: 3em;
+}
+/* Icon */

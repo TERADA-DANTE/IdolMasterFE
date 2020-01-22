@@ -1,0 +1,8 @@
+.topbar{
+    background-color: whitesmoke;
+    transition: background-color 0.5s;
+  }
+.topbar:hover{
+    cursor: pointer;
+    background-color: skyblue;
+}

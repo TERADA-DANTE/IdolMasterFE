@@ -1,0 +1,20 @@
+#main{
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+@media all and (max-width: 1030px) {
+  .sub{
+    display: none !important;
+  }
+  .right{
+    display: none !important;
+  }
+  .wrapper-mainContent{
+    display: block !important;
+  }
+}
+
+.wrapper-mainContent{
+  display: grid;
+  grid-template-columns: 10% 90%;
+}

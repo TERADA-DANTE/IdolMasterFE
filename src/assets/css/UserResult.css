@@ -1,0 +1,54 @@
+.wrapper-userResult{
+  display: grid;
+  grid-template-columns: 100%
+}
+
+@media (min-width: 450px) {
+    .wrapper-userResult{
+      display: grid;
+      grid-template-columns: 50% 50% !important
+    }
+}
+
+.userName{
+    display: inline-block;
+}
+.userInfo{
+    margin-bottom: 20px;
+    margin-top:20px;
+}
+.item{
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    background-color: rgb(167, 233, 253);
+    position: relative;
+}
+
+.itemContent{
+  max-width: 100%;
+  border-radius: 0%;
+  margin-bottom: 20px;
+}
+
+.readMore{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(183, 220, 255);
+}
+
+.profileImg{
+  border-radius: 5%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  max-width: 100%;
+}
+
+.profileDesc{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}

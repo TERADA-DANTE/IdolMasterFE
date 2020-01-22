@@ -1,0 +1,5 @@
+.navbar{
+    height: 4em;
+    cursor: pointer;
+    border-left: 5px skyblue solid;
+}

@@ -1,0 +1,11 @@
+.list-group{
+    display: block !important;
+}
+
+.stickyRight{
+    padding: 1%;
+    position:fixed;
+    left:82%;
+    width:18%;
+    top:0;
+}

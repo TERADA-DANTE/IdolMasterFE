@@ -1,0 +1,13 @@
+.footer{
+  background-color: rgb(241, 241, 241);
+  color: rgba(0,0,0,0.2);
+  margin-bottom: 20px;
+  margin-top:20px;
+}
+.fotterLink{
+  color: rgb(159, 199, 255);
+  transition: color 0.5s;
+}
+.fotterLink:hover{
+  color: rgb(23, 119, 253);
+}
