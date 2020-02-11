@@ -57,6 +57,7 @@ function RenderResult(props) {
     else if (!props.isPhoto) {
         //
         const vidArr = props.userResult.userResultVideo
+        console.log(props.onButton)
         // 원하는row 까지만
         const vidArrFiltered = vidArr.filter(function (s, idx) {
             return 0 <= idx && idx < (props.rowToShow) * 2
@@ -70,12 +71,12 @@ function RenderResult(props) {
             )
         })
         return (
-            <div>
+            <>
                 <div className='wrapper-userResult'>
                     {result}
                 </div>
-                {vidArr.length > props.rowToShow * 2 ? <ReadMore onClick={props.onButton} /> : <EndOfResult />}
-            </div>
+                {vidArr.length > props.rowToShow * 2 ? <ReadMore onButton={props.onButton} /> : <EndOfResult />}
+            </>
         )
     }
 }
