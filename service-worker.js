@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/idolMaster/precache-manifest.540d95ac973bbcbbd24bcfcf8af19a3f.js"
+  "/idolMaster/precache-manifest.fd5b11a54e9597d17ae381a407722db9.js"
 );
 
 self.addEventListener('message', (event) => {

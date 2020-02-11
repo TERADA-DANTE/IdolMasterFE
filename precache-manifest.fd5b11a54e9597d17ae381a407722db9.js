@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a43db280f14a0127fb17e6fddddf47ce",
+    "revision": "915ed1b759b54d45bfe0c65cb56a55b0",
     "url": "/idolMaster/index.html"
   },
   {
-    "revision": "b970b571636670c31747",
+    "revision": "4f018277f1201a9ef7db",
     "url": "/idolMaster/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "12313b0051745445decb",
+    "revision": "c35f39a5953e6e441129",
     "url": "/idolMaster/static/css/main.4c6a70de.chunk.css"
   },
   {
-    "revision": "b970b571636670c31747",
-    "url": "/idolMaster/static/js/2.b7c15033.chunk.js"
+    "revision": "4f018277f1201a9ef7db",
+    "url": "/idolMaster/static/js/2.745dfa5d.chunk.js"
   },
   {
-    "revision": "4d53bba648496e5052d796c81ac75518",
-    "url": "/idolMaster/static/js/2.b7c15033.chunk.js.LICENSE"
+    "revision": "f0e6b7af6a4669e5f5f602cbad24fc2b",
+    "url": "/idolMaster/static/js/2.745dfa5d.chunk.js.LICENSE"
   },
   {
-    "revision": "12313b0051745445decb",
-    "url": "/idolMaster/static/js/main.235339cb.chunk.js"
+    "revision": "c35f39a5953e6e441129",
+    "url": "/idolMaster/static/js/main.e67487a9.chunk.js"
   },
   {
     "revision": "37dbc2fc3bce899a6b20",
