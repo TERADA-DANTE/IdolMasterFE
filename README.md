@@ -1,7 +1,7 @@
 <img alt="twitter" src="https://badgen.net/badge/icon/twitter?icon=twitter&label" /> <img alt="node" src="https://badgen.net/badge/node/v12.13.1/green" /> <img alt="react" src="https://badgen.net/badge/react/v16.12.0/cyan" />
 
 
-<img src="" alt="page index">
+<img src="https://raw.githubusercontent.com/TERADA-DANTE/IdolMasterFE/master/1.png" alt="page index">
 
 ## Overview
 Twitter photo & video parser site. 
