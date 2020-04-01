@@ -4,12 +4,13 @@
 <img src="" alt="page index">
 
 ## Overview
-Twitter photo & video parser site.
+Twitter photo & video parser site. 
+This repository is its frontend(Server side repository is kept private due to security reason)
+
+You can view almost all tweets(up to 200 tweets) which contain video or photo at once.
+
+✅ Protected account is now allowed to search.
 > This is powered by Twitter API, Bootstrap, express(NodeJS)
-
-
-## Warning.
-As you may know, API key should be classified 🔥
 
 ## Dependency
 - jquery
