@@ -3,7 +3,7 @@
 # IdolMaster
 
 24/7 free Twitter photo / video parser 
-![Site Preview]('./site-preview.jpg')
+![Site Preview]('/site-preview.jpg')
 
 # Demo
 [CLICK HERE TO CHECK DEMO SITE](https://idolmaster.netlify.app)
