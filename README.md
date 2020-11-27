@@ -13,13 +13,17 @@ You can view almost all tweets(up to 200 tweets) which contain video or photo at
 > This is powered by Twitter API, Bootstrap, express(NodeJS)
 
 ## Dependency
-- jquery
-- bootstrap
-- popper.js
-- express
-- body-parser
-- twitter
-- gh-pages(optional)
+"@testing-library/jest-dom": "^4.2.4",
+"@testing-library/react": "^9.4.0",
+"@testing-library/user-event": "^7.2.1",
+"bootstrap": "^4.4.1",
+"gh-pages": "^2.2.0",
+"jquery": "^3.4.1",
+"popper.js": "^1.16.1",
+"react": "^16.12.0",
+"react-dom": "^16.12.0",
+"react-scripts": "3.4.1",
+"twitter": "^1.7.1"
 
 ## Lisence
 MIT
