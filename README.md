@@ -1,15 +1,20 @@
 <img alt="twitter" src="https://badgen.net/badge/icon/twitter?icon=twitter&label" /> <img alt="node" src="https://badgen.net/badge/node/v12.13.1/green" /> <img alt="react" src="https://badgen.net/badge/react/v16.12.0/cyan" />
 
+# IdolMaster
 
-<img src="https://raw.githubusercontent.com/TERADA-DANTE/IdolMasterFE/master/1.png" alt="page index">
+24/7 free Twitter photo / video parser 
+![Site Preview]('./site-preview.jpg')
+
+# Demo
+[CLICK HERE TO CHECK DEMO SITE](https://idolmaster.netlify.app)
+
 
 ## Overview
-Twitter photo & video parser site. 
+Twitter photo & video parser website. 
 This repository is its frontend(Server side repository is kept private due to security reason)
 
 You can view almost all tweets(up to 200 tweets) which contain video or photo at once.
 
-✅ Protected account is now allowed to search.
 > This is powered by Twitter API, Bootstrap, express(NodeJS)
 
 ## Dependency
