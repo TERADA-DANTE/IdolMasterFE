@@ -2,6 +2,8 @@
 
 # IdolMaster
 
+## ⚠ Heroku is too slow. Please be patient.
+
 24/7 free Twitter photo / video parser 
 ![Site Preview](./site-preview.jpg)
 
